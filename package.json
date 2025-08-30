@@ -1,0 +1,10 @@
+{
+  "name": "celoscan-lite",
+  "version": "1.0.0",
+  "description": "Lightweight explorer tool for Celo blockchain",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "author": "Musab Önen",
+  "license": "MIT"
+}
